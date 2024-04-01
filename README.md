@@ -1,2 +1,2 @@
 # MergeConflicts
-content aaded by B in MergeConflicts
+content aaded by B in MergeConflicts.
